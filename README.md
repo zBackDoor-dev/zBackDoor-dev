@@ -7,6 +7,6 @@ I'm a 16 yo guy that loves Animes and making stuff in Java...
 ### My Stats
 #
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=zBackDoor-dev&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FakeException&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zBackDoor-dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FakeException)
